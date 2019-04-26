@@ -4,7 +4,7 @@ To follow along with the workshop you will need a laptop with the following soft
 
 * Install R from https://cran.r-project.org/
 * RStudio Desktop from https://www.rstudio.com
-* Download the Scripts from this repository
+* Download the Scripts and Introduction to Shiny.pdf from this repository
 
 Install the following R packages from CRAN in the usual way:
 
